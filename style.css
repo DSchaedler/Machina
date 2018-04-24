@@ -1,85 +1,77 @@
 h1 {
-	text-align: center;
-	font-family: 'Open Sans', sans-serif;
-	font-weight: 200;
-	font-size: 3.5em
+     text-align: center;
+     font-family: 'Open Sans', sans-serif;
+     font-weight: 600;
+     font-size: 3.5em 
 }
-
-h2 {
-	text-align: center;
-	font-family: 'Open Sans', sans-serif;
-	font-weight: 200;
-	font-size: 3em
+ h2 {
+     text-align: center;
+     font-family: 'Open Sans', sans-serif;
+     font-weight: 200;
+     font-size: 3em 
 }
-	
-p {
-	text-align: center;
-	font-family: 'Open Sans', sans-serif;
-	font-weight: 200;
-	font-size: 2em
+ p {
+     text-align: center;
+     font-family: 'Open Sans', sans-serif;
+     font-weight: 200;
+     font-size: 2em 
 }
-
-a {
-	text-decoration: none;
-	color: black;
+ u {
+     color: #486ACA;
 }
-
-iframe {
-	width: 800px;
-	height: 800px;
-	margin: 0 auto;
-	display: block;
-	margin-top: 2em;
+ .div_link {
+     text-decoration: none;
+     color: black;
 }
-
-#discord-json {
-	display: inline-block;
+ iframe {
+     width: 800px;
+     height: 800px;
+     margin: 0 auto;
+     display: block;
+     margin-top: 2em;
 }
-
-#discord-logo {
-	display: inline-block;
-	height: 6em;
+ #discord-json {
+     display: inline-block;
 }
-
-#discord-wrapper {
-	display: flex;
-	justify-content: center;
-  	align-items: center;
-  	margin: 0 auto;
-  	width: 500px;
+ #discord-logo {
+     display: inline-block;
+     height: 6em;
 }
-
-#bevo-text {
-	margin: 0 auto;
-	display: block;
-	padding: 20px;
+ #discord-wrapper {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     margin: 0 auto;
+     width: 500px;
+     margin-top: 40px;
 }
-
-#bevo-logo {
-	width: 30em;
-	height: 15em;
-	margin: 0 auto;
-	display: block;
-	padding: 20px;
-
+ #bevo-text {
+     margin: 0 auto;
+     display: block;
+     padding: 20px;
 }
-
-#info-wrapper {
-	margin: 0 auto;
-	width: 800px;
-  margin-top: 80px;
-  flex-wrap: wrap;
-  flex-shrink: 0;
+ #bevo-logo {
+     width: 30em;
+     height: 15em;
+     margin: 0 auto;
+     display: block;
+     padding: 20px;
 }
-
-#at-logo {
-	width: 15em;
-	margin: 0 auto;
-	display: block;
-	padding: 20px;
+ #info-wrapper {
+     margin: 0 auto;
+     width: 800px;
+     margin-top: 80px;
+     flex-wrap: wrap;
+     flex-shrink: 0;
 }
-
-#ip {
-	width: 500px;
-	margin: 0 auto;
+ #at-logo {
+     width: 15em;
+     margin: 0 auto;
+     display: block;
+     padding: 20px;
 }
+ #ip {
+     width: 500px;
+     margin: 0 auto;
+}
+ 
