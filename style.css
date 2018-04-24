@@ -25,6 +25,10 @@ h1 {
      text-decoration: none;
      color: #697FC9;
 }
+ .div_link:hover {
+     text-decoration: none;
+     color: #5567A3;
+}
  iframe {
      height: 40vw;
      width: 80vw;
