@@ -18,7 +18,7 @@
 		<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 	</head>
 	<body>
-		<h1><b>Machina Minecraft Server</b></h1>
+		<h1>Machina Minecraft Server</h1>
 		<h2 onclick="SelectText('ip')" id="ip" title="Click to copy!">mc.machina.fun</h2>
 
 		<div id="discord-wrapper">
@@ -40,7 +40,7 @@
 
 		<h2>World Map</h2>
 		<iframe src="http://machina.mine.bz:8120/"></iframe>
-		
+
 		<script type="text/javascript" src="scripts/main.js"></script>
 	</body>
 </html>
