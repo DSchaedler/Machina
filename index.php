@@ -35,13 +35,13 @@
 		</div>
 
 		<div id="info-wrapper">
-			<div id="bevo-div">
-				<img src="images/bevo.png" id="bevo-logo" alt="Bevo's Tech Pack." class="auto-style1">
-				<p id="bevo-text">This server runs on the latest version of <a class="div_link" href="https://www.atlauncher.com/pack/BevosTechPack" target="_blank">Bevo's Tech Pack 1.7.10</a></p>
-			</div>
 			<div id="atlauncher-div">
 				<img src="images/at.png" id="at-logo" alt="AT Launcher">
 				<p id="bevo-text">You will need <a target="_blank" href="https://www.atlauncher.com/downloads" class="div_link">AT Launcher</a> to run this pack.</p>
+			</div>
+			<div id="bevo-div">
+				<img src="images/bevo.png" id="bevo-logo" alt="Bevo's Tech Pack." class="auto-style1">
+				<p id="bevo-text">This server runs on the latest version of <a class="div_link" href="https://www.atlauncher.com/pack/BevosTechPack" target="_blank">Bevo's Tech Pack 1.7.10</a></p>
 			</div>
 		</div>
 
